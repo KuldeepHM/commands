@@ -1,0 +1,4 @@
+1.pwd -print working directory.
+2.whoami-will print current loggedin users username.
+3.cd, cd.., cd. , cd dir  - change directory.
+4.mkdir - make directory
