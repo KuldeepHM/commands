@@ -2,3 +2,17 @@
 2.whoami-will print current loggedin users username.
 3.cd, cd.., cd. , cd dir  - change directory.
 4.mkdir - make directory
+5.cd      pathway to directory        change the current working durectory
+6. cd..   cd..                        change to the present directory of the working directory.
+7. cd.     cd.                        it represent to the current working directory.
+8.  rmdir   rmdir file name           it will remove the empty directory.
+9. touch   touch file name            it will create file with name specified.
+10. rm    rm file name    it will delete the file with specified file name.
+11. rm    rm -r dir name  it will delete the specified directory.
+12. cp    cp path 1/file1  path 2       copy  the file from path 1 to path 2 
+13. mv    mv path 1/file1  path 2       it move file from path 1 to path 2.
+14. cat    cat file name                it will show the content of the file of the specified file.
+15. nano  nano filename                 opean the file for writing.
+16. vi    vi file name                  opean the file for writing.'
+17. cat  cat> file name                 it will opean the file in writing mode and overwrite the existing content.
+18. cat   cat>>filename                 it will write the new file with existing  old content.
